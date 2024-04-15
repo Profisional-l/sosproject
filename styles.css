@@ -57,6 +57,7 @@ body {
   
   .dopItems {
     display: none;
+    margin-top: -25px;
   }
   
   .categoryParent {
@@ -171,6 +172,8 @@ body {
     font-weight: 600;
 }
 .sosnow {
+    font-size: 24px;
     margin-top: -10px;
     width: 230px;
+    height: 55px;
 }

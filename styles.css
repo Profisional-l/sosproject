@@ -177,3 +177,21 @@ body {
     width: 230px;
     height: 55px;
 }
+.forincardLogo.footer {
+  margin-top: -60px;
+
+}
+
+.forincardLogo.footer h4 {
+  width: 90%;
+  text-align: center;
+  padding: 10px;
+  background-color: #252525;
+  color: #ffffff;
+  border-radius: 22px;
+  font-size: 18px;
+}
+
+.forincardLogo.footer a {
+  color: rgb(205, 152, 255);
+}
